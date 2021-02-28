@@ -39,7 +39,7 @@ export default class To_do extends React.Component{
         this.state.sum = parseInt(this.state.input1) + parseInt(this.state.input2);
         var result = this.state.calculator;
         result.push(this.state.sum);
-        reverse = reverse +" = "+ this.state.sum;
+        reverse = reverse +" Sum = "+ this.state.sum;
         data.push(reverse);
         this.setState({
             taskArr: temp,
