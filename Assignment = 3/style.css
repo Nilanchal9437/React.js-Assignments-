@@ -1,0 +1,28 @@
+.data div{
+    display: inline-block;
+}
+
+.box{
+    margin: 20px;
+    padding: 10px;
+    background-color: rgb(84, 238, 192);
+    width: 500px;
+    border-radius: 15px;
+}
+.box2{
+    margin: 20px 20px 20px 0px;
+    padding: 10px;
+    background-color: rgb(238, 107, 84);
+    width: 200px;
+    border-radius: 15px;
+}
+.box2 button{
+    margin-left: 60px; 
+}
+.box3{
+    margin: 20px 20px 20px 0px;
+    padding: 10px;
+    background-color: rgb(97, 238, 84);
+    width: 200px;
+    border-radius: 15px;
+}
